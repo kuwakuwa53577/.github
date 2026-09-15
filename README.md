@@ -6,7 +6,7 @@
 <div align="center">
 
   <img
-    width="100%"
+    width="50%"
     src="https://github.com/user-attachments/assets/3882b7fa-614d-4133-8a2a-8d9b18d4df0f"
     alt="Kuwakuwa profile banner"
   />
