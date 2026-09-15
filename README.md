@@ -29,14 +29,13 @@
     src="https://gifdb.com/images/high/lofi-train-alone-chilling-b78fxpec0se4ttjl.gif"
     alt="lofi train"
   />
+  </br>
 
-<div align="center">
   I'm Japanese! I can speak a little<br/>
   Japanese and English.<br/>
   My areas of expertise are HTML, CSS,<br/>
   and JavaScript! I'd love to get to<br/>
   know you!<br/>
-</div>
 </div>
 
 <br clear="right"/>
