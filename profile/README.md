@@ -13,22 +13,11 @@
 
 </div>
 
-<br/>
-
 <!-- ─── ABOUT ─────────────────────────────────────────────────────────── -->
 
 <div align="center">
 
   <sub><b>· &nbsp; A B O U T &nbsp; ·</b></sub>
-
-  <br/><br/>
-
-  <img
-    align="right"
-    width="220"
-    src="https://gifdb.com/images/high/lofi-train-alone-chilling-b78fxpec0se4ttjl.gif"
-    alt="lofi train"
-  />
   </br>
 
   I'm Japanese! I can speak a little<br/>
@@ -88,7 +77,7 @@
 
   <sub><b>· &nbsp; S K I L L S &nbsp; ·</b></sub>
 
-  <br/><br/>
+  <br/>
 
   <img
     src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode"
