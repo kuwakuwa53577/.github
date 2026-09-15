@@ -6,28 +6,34 @@
 <div align="center">
 
   <img
-    width="120%"
+    width="100%"
     src="https://github.com/user-attachments/assets/3882b7fa-614d-4133-8a2a-8d9b18d4df0f"
     alt="Kuwakuwa profile banner"
   />
 
 </div>
 
+<br/>
+
 <!-- ─── ABOUT ─────────────────────────────────────────────────────────── -->
 
 <div align="center">
 
-  <sub><b>· &nbsp; A B O U T &nbsp; ·</b></sub>
-  </br>
+  <h2>· &nbsp; A B O U T &nbsp; ·</h2>
 
-  I'm Japanese! I can speak a little<br/>
-  Japanese and English.<br/>
-  My areas of expertise are HTML, CSS,<br/>
-  and JavaScript! I'd love to get to<br/>
-  know you!<br/>
+  <br/>
+
+  <p>
+    <big>
+      I'm Japanese! I can speak a little<br/>
+      Japanese and English.<br/>
+      My areas of expertise are HTML, CSS,<br/>
+      and JavaScript! I'd love to get to<br/>
+      know you!
+    </big>
+  </p>
+
 </div>
-
-<br clear="right"/>
 
 <br/>
 
@@ -35,9 +41,9 @@
 
 <div align="center">
 
-  <sub><b>· &nbsp; L E T ' S &nbsp; C O N N E C T &nbsp; ·</b></sub>
+  <h2>· &nbsp; L E T ' S &nbsp; C O N N E C T &nbsp; ·</h2>
 
-  <br/><br/>
+  <br/>
 
   <a href="https://github.com/kuwakuwa53577">
     <img
@@ -75,7 +81,7 @@
 
 <div align="center">
 
-  <sub><b>· &nbsp; S K I L L S &nbsp; ·</b></sub>
+  <h2>· &nbsp; S K I L L S &nbsp; ·</h2>
 
   <br/>
 
@@ -92,11 +98,9 @@
 
 <div align="center">
 
-  <sub>
-    <i>Small steps, big dreams. ☕</i>
-  </sub>
+  <h2>Small steps, big dreams. ☕</h2>
 
-  <br/><br/>
+  <br/>
 
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:1b4b75,50:b87a3d,100:7d4a2a&height=120&section=footer"
