@@ -91,7 +91,7 @@
   <br/><br/>
 
   <img
-    src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode"
+    src="https://skillicons.dev/icons?i=js,html,css,nodejs,npm,electron,instagram,twitter"
     alt="HTML, CSS, JavaScript, Git, GitHub, VS Code"
   />
 
